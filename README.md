@@ -7,4 +7,4 @@ Weather report via zillow.
 Realstate information via an api.
 Clock for different timezone in USA.
 
-##### Django, sqlite, javascript
+#### Technology used: Django, sqlite, javascript
